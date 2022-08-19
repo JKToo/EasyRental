@@ -1,0 +1,32 @@
+name,license_no (PK),address,payment,Paid,dates,available,vehicle_type,vehicle_brand
+Ans Choudhary,804289385,"695 Park Ave, New York, NY 10065",6383-4886-7777-2915,yes,0/2/2018,yes,Limo,Cadillac
+Ans Choudhary,804289385,"695 Park Ave, New York, NY 10065",6383-4886-7777-2915,yes,0/6/2018,no,Truck,Toyota
+Chris Paul,278722863,"8951 N. Wakehurst St. Montgomery, AL 36109",6335-3386-7492-6649,yes,1/31/2001,no,SUV,Honda
+Draymond Green,412776092,"44 Henry Street Sulphur, LA 70663",4362-5027-9690-3059,yes,3/9/2002,yes,Limo,Cadillac
+Anthony Davis,374344045,"260 Fremont Road Gwynn Oak, MD 21207",6926-7540-7426-7172,yes,2/11/2017,yes,Motorcycle,Yamaha
+Kobe Bryant,317097468,"94 North Pheasant Road Traverse City, MI 49684",5211-1368-7567-1429,yes,4/3/2005,yes,Truck,Toyota
+Justin Too,631704568,"879 William St. Columbus, GA 31904",1530-2862-8123-7067,yes,4/23/2005,yes,Van,Ford
+Justin Too,631704568,"879 William St. Columbus, GA 31904",1530-2862-8123-7067,yes,9/2/2003,no,Motorcycle,Yamaha
+Dwayne Wade,150122847,"860 W. Maiden Drive Sacramento, CA 95820",4929-9802-6022-9058,yes,11/27/2009,no,SUV,Honda
+Kevin Love,244316439,"9660 Buckingham Ave. Southfield, MI 48076",8167-5393-2456-3011,yes,3/13/2005,no,Limo,Cadillac
+John Wall,909002906,"28 Beacon Street Coatesville, PA 19320",3229-6373-3421-2919,yes,5/14/2022,no,Van,Ford
+James Harden,933110198,"86 Greystone Ave. Grand Island, NE 68801",8537-6198-3324-3315,yes,10/31/2022,no,SUV,Honda
+Kawhi Leonard,977648524,"8684 Grandrose Dr. Sterling Heights, MI 48310",4413-7526-1091-1980,yes,12/6/2015,no,Limo,Cadillac
+Kevin Durant,58657202,"362 W. Hill Field Ave. Monroe, NY 10950",1873-8862-7170-8996,yes,4/23/2008,yes,Motorcycle,Yamaha
+Kevin Durant,58657202,"362 W. Hill Field Ave. Monroe, NY 10950",1873-8862-7170-8996,yes,5/23/2008,no,Limo,Cadillac
+Derrick Rose,65103350,"740 Bow Ridge Court Phoenix, AZ 85021",8305-3925-3084-4327,yes,5/3/2011,yes,Motorcycle,Yamaha
+Russel Westbrook,307565986,"23 Alton Street Kalispell, MT 59901",8505-8846-4729-7313,yes,1/29/2016,no,Van,Ford
+Damiem Lillard,524688210,"977 Water Street Massapequa Park, NY 11762",3124-6895-4582-5545,yes,1/24/2022,no,Truck,Toyota
+Dwight Howard,648031327,"940 S. Lexington Ave. Pawtucket, RI 02860",9367-1434-2364-9043,yes,5/20/2008,no,SUV,Honda
+Steve Nash,150517568,"7733 N. Miles Ave. Sarasota, FL 34231",2087-9808-1276-2178,yes,2/13/2007,no,Motorcycle,Yamaha
+Michael Jordan,430253415,"21 E. Rockland St. Defiance, OH 43512",5584-9403-9651-2754,yes,0/20/2019,yes,SUV,Honda
+Shaquille O'Neal,328104341,"9852 Bay Road Wake Forest, NC 27587",2932-1060-8676-2368,yes,11/2/2017,yes,Limo,Cadillac
+Kyrie Irving,402961684,"635 NW. Theatre Avenue Saint Augustine, FL 32084",8012-7226-9586-9094,yes,12/2/2017,yes,Van,Ford
+Kyrie Irving,402961684,"635 NW. Theatre Avenue Saint Augustine, FL 32084",8012-7226-9586-9094,yes,10/1/2016,yes,SUV,Honda
+Klay Thompson,411328207,"7290 Central Drive Franklin, MA 02038",7795-8570-1434-2378,yes,10/7/2007,yes,SUV,Honda
+Carmelo Anthony,505193514,"7459 St Paul Street Oak Creek, WI 53154",6601-8097-1902-5317,yes,4/30/2014,yes,Truck,Toyota
+Stephen Curry,376035219,"526 Arch St. Kokomo, IN 46901",4652-3756-4301-2280,yes,4/27/2014,no,SUV,Honda
+Stephen Curry,376035219,"526 Arch St. Kokomo, IN 46901",4652-3756-4301-2280,yes,11/1/2001,no,Limo,Cadillac
+Demar Derozan,943003495,"37 Beech St. Mahwah, NJ 07430",2441-6865-1689-8444,yes,2/30/2016,no,Van,Ford
+Lebon James,210359233,"771 Strawberry St. Melrose, MA 02176",6440-7729-6031-5117,yes,3/17/2022,yes,SUV,Honda
+Lebon James,210359233,"771 Strawberry St. Melrose, MA 02176",6440-7729-6031-5117,yes,3/23/2013,no,Limo,Cadillac
