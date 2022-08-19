@@ -1,0 +1,18 @@
+insert into contact(
+name, 
+license_no, 
+address, payment) 
+select name, license_no, address, payment from project_data_raw group by name, license_no, address, payment;
+
+
+insert into orders(
+contact_id, date, vehicle_id, paid, available) 
+select c.contact_id, p.date, v.vehicle_id, p.paid, p.available from contact c, project_data_raw p, vehicles v where c.name 
+= p.name and v.vehicle_type = p.vehicle_type and p.paid = 'yes' order by c.contact_id asc;
+
+
+insert into vehicles(
+vehicle_type, 
+vehicle_brand) 
+select distinct vehicle_type, vehicle_brand from project_data_raw;
+insert into orders(contact_id, dates) select c.contact_id, p.date from contact c, project_data_raw p where c.name = p.name;
